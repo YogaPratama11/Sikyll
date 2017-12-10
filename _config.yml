@@ -2,16 +2,16 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
+url: https://yogapratama11.github.io/Sikyll/
+title: Pratama Page
+email: yogapratamaputra0@gmail.com
+author: Yoga Pratama Putra
 description: > # "Write an awesome description for your new site here. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
   description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+copyright: 'Copyright &copy; 2017 Pratama Page. All Rights Reserved.'
+credits: 'Credits: Thanks To Allah Subhanahu Wa Ta'ala for My Live'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -27,8 +27,8 @@ permalink: pretty
 
 social:
   - title: twitter
-    url: https://twitter.com/SBootstrap
+    url: https://twitter.com/YogaPeratamaP
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://yogapratama11.github.io/Sikyll/
   - title: linkedin
-    url: 
+    url: https://www.linkedin.com
