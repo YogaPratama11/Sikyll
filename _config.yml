@@ -11,8 +11,7 @@ description: > # "Write an awesome description for your new site here.
   head meta (for Google search results) and in your feed.xml site 
   description.
 copyright: 'Copyright &copy; 2017 Pratama Page. All Rights Reserved.'
-credits: 'Credits: Thanks To Allah Subhanahu Wa Ta'ala for My Live'
-
+credits: 'Credits: Thanks To Allah Subhanahu Wa Ta'ala'
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
@@ -31,4 +30,4 @@ social:
   - title: github
     url: https://yogapratama11.github.io/Sikyll/
   - title: linkedin
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/yoga-pratama-putra-395ba1134/
